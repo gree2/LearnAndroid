@@ -1,0 +1,3 @@
+[submodule "PlayGif/android-gif-drawable"]
+	path = PlayGif/android-gif-drawable
+	url = https://github.com/koral--/android-gif-drawable.git
