@@ -1,6 +1,8 @@
-<resources>
-    <string name="app_name">PlayGif</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">android-gif-drawable sample</string>
+    <string name="about_text" tools:ignore="TypographyDashes">This is a sample of android-gif-drawable Library:
+        https://github.com/koral--/android-gif-drawable\nUsed icons are public domain, created by Dave Johnston.</string>
+    <string name="compound_text">This is a TextView with animated compound drawables</string>
+    <string name="gif_texture_view_stub">GifTextureView is available in API level 14+</string>
 </resources>
