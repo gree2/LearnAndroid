@@ -1,6 +1,11 @@
 # LearnAndroid
 LearnAndroid.
 
+### MediaPlayerDemo
+
+1. play and stop mp3
+
+1. animation start and stop
 
 ### PlayGif
 
